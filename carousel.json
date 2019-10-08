@@ -1,0 +1,21 @@
+{
+	"carousel": [
+	{
+		"link": "assets/1.jpeg",
+		"legend": " nulla dolorum ipsa veniam! Voluptatem.",
+		"description" : "Lorem ipsum dolor sit amet."
+	},
+	{
+		"link": "assets/2.jpeg",
+		"legend": "legend2",
+		"description" : "here is another description"
+	},
+
+	{
+		"link": "assets/3.jpeg",
+		"legend": "legend3",
+		"description" : "here is a third description"
+	}
+
+	]
+}
