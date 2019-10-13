@@ -59,11 +59,11 @@
 .header--container--text-block{
 	color: white;
 	position: absolute;
-	
+	font-size: 1rem;
 	left: 50%;
 	top: 100px;
-	text-align: center; 
-                  transform: translate(-50%, 50%);
+	transform: translate(-50%, 50%);
+	text-align: center;
 }
 
 .header--container--text-block--title{
@@ -86,6 +86,9 @@
 	margin-top: 1.7em;
 	text-shadow: 2px 1px 1px black;
 }
+
+
+
 
 /*end header styles*/
 
